@@ -328,7 +328,7 @@ class librarian
 
 }
 
-class show()
+class show2()
 {
    void disp()
    {
