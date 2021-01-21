@@ -328,6 +328,15 @@ class librarian
 
 }
 
+class show()
+{
+   void disp()
+   {
+      System.out.println("hi");
+   }
+
+}
+
 
 class library_management_system
 {
